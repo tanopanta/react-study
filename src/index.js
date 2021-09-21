@@ -1,7 +1,5 @@
 import ReactDom from "react-dom";
 
-const App = () => {
-  return null;
-};
+import App from "./App.jsx";
 
 ReactDom.render(<App />, document.getElementById("root"));
